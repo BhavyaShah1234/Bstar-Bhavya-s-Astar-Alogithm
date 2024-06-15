@@ -3,6 +3,4 @@ This is a new path planning algorithm, developed by yours truly. It is a modifie
 
 Steps to run code:
 
-'''
-python3 main.py
-'''
+<code>python3 main.py</code>
